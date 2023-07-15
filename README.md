@@ -1,1 +1,1 @@
-# Ev4.config-server
+config-server
